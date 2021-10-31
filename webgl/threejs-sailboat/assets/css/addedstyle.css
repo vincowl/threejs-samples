@@ -1,0 +1,40 @@
+div.helper {
+	/* Couleurs */
+	background-color: rgba(0,0,0,0.2);
+	color: rgba(0,0,0,0.6);
+	
+	/* Positionnement */
+	margin-top: 1em;
+	margin-left: 1em;
+	position:absolute;
+	/*bottom:0;
+	right:0;*/
+	z-index:100000;
+	padding:1em;
+	
+	/* Ombrage et transparence */
+	box-shadow: rgba(0,0,0,0.4) 0.4em 0.4em 0.3em;
+	border-radius: 1em;
+	
+	/* Polices */
+	font-family: Fantasy;
+}
+
+.helper > h1 {
+	text-align:center;
+	font-size: 100%;
+	padding: 0em;
+	margin: 0em;
+}
+
+.helper > table {
+	text-align:left;
+	font-size: 80%;
+	padding: 0em;
+	margin: 0em;
+}
+
+.helper td:first-child {
+	padding-right: 1em;
+	font-weight: bold;
+}

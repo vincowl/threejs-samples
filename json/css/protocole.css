@@ -1,0 +1,15 @@
+.pTitle {
+	border-bottom: 2px groove #efefef;
+	margin-bottom: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	font-family: Helvetica;
+	font-size: large;
+	font-weight: bold;
+	font-style: italic;
+}
+
+p.title {
+	font-weight: bold;
+	font-style: italic;
+}

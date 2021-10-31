@@ -1,0 +1,21 @@
+{
+	"title": "Protocole Toto",
+	"matiere": "TIOC",
+	"mode": "Electrique",
+	"baro": "Choix / Non Choix",
+	"keywords":["kinesio","tioc","protocole"],
+	"but": "Tester la kinésio et le Json pour les protocoles",
+	"pretest": [
+		"Vérifier que le mode déverouille", 
+		"Mettre en circuit l'émotion"
+	],
+	"protocole": [
+		"Lever la jambe",
+		"Lever l'autre jambe",
+		"Tourner 3x sur soi et invoquer les dieux de la pluie"
+	],
+	"posttest": [
+		"Défi verbal du mode",
+		"rien d'autre"
+	]
+}
